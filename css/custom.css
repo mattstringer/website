@@ -10,7 +10,7 @@ body {
 }
 
 #logo {
-    position: fixed;
+    position: relative;
     top: 2%;
     left: 12%;
     color: #22195b;
