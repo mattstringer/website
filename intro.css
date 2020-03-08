@@ -7,6 +7,7 @@
 	padding: 32px;
 	background-color: transparent;
 	text-align: center;
+	font-size: 18px;
 }
 
 #headingOne {
@@ -14,7 +15,7 @@
 }
 
 #introBody {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 

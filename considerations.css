@@ -5,6 +5,7 @@
 
 #jumbotron {
 	padding: 32px;
+	padding-bottom: 0;
 	background-color: transparent;
 	text-align: center;
 }
@@ -14,6 +15,14 @@
 }
 
 #introBody {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
+#consider {
+	text-align: left;
+	font-size: 18px;
+}
+
+#botDiv {
+	text-align: center;
+}
