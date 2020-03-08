@@ -5,11 +5,7 @@ body {
 	font-family: "Roboto", sans-serif;
 	font-size: 15px;
 	font-weight: 400;
-	line-height: 1.667;
-	background: url(../img/banner/banner-bg.png) left center no-repeat;
-	background-size: cover;
-	position: fixed;
-	height: 100%;
+	line-height: 1.667
 }
 
 ul {
