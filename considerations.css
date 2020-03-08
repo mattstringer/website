@@ -5,6 +5,7 @@
 
 #jumbotron {
 	padding: 32px;
+	padding-bottom: 0;
 	background-color: transparent;
 	text-align: center;
 }
@@ -14,25 +15,14 @@
 }
 
 #introBody {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
-.checklist{
+#consider {
 	text-align: left;
+	font-size: 18px;
 }
 
-.column {
-	float: left;
-	width: 50%;
-	padding:10px;
-  }
-  
-  .row:after {
-	content: "";
-	display: table;
-	clear: both;
-  }
-
-#introBody {
-	  margin-top: 50px;
-  }
+#botDiv {
+	text-align: center;
+}
