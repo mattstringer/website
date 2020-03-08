@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+    overflow-y: hidden; 
+    overflow-x: hidden;
+    background: #fff;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	z-index: 1
+}
+
+#logo {
+    position: fixed;
+    top: 2%;
+    left: 12%;
+    color: #22195b;
+}
